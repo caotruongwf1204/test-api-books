@@ -1,0 +1,4 @@
+INSERT INTO testdb.Roles (code, value) VALUES ('1', 'Admin');
+INSERT INTO testdb.Roles (code, value) VALUES ('2', 'Moderator');
+INSERT INTO testdb.Roles (code, value) VALUES ('3', 'User')
+
