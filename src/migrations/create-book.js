@@ -27,7 +27,7 @@ module.exports = {
         type: DataTypes.STRING,
       },
       description: {
-        type: DataTypes.TEXT
+        type: DataTypes.STRING
       },
       category_id: {
         type: DataTypes.STRING,
